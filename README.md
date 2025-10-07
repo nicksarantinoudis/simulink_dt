@@ -1,4 +1,4 @@
-# Simulink Models for the creation of a Digital Twin
+# Simulink Models for a CARLA - ROS Bridge - Matlab/Simulink Digital Twin
 
 This repository provides the Simulink models used in conjuction with CARLA 
 and ROS Bridge to run the experimental validation described in 
