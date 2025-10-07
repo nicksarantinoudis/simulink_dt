@@ -2,7 +2,7 @@
 
 This repository provides the Simulink models used in conjuction with CARLA 
 and ROS Bridge to run the experimental validation described in 
-" Development of an Application Framework for Digital Twin-Driven Intelligent Autonomous Vehicles" 
+"Development of an Application Framework for Digital Twin-Driven Intelligent Autonomous Vehicles" 
 doctoral dissertation by Nikolaos M. Sarantinoudis. 
 
 In order to use these Simulink models, the following requirements have to be met: 
